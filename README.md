@@ -27,3 +27,9 @@ From the root folded
 CD Release
 
 make all
+
+
+
+Notes
+docker build -t avr-gcc-ubuntu .
+docker run -it avr-gcc-ubuntu
