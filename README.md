@@ -30,6 +30,9 @@ make all
 
 
 
-Notes
+Notes:
+
 docker build -t avr-gcc-ubuntu .
+
 docker run -it avr-gcc-ubuntu
+
